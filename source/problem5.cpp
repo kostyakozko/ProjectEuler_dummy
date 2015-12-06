@@ -1,7 +1,7 @@
 #include <iostream>
 int main()
 {
-	int64_t number = 20;
+	int64_t number = 2*3*5*7*11*13*17*19;
 	bool isDivisible = true;
 	do
 	{
